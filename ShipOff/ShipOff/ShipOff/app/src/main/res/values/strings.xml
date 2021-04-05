@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ShipOff</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be > 5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="button_catalog">View Catalog</string>
+    <string name="button_settings">View Account Settings</string>
+    <string name="button_checkout">Checkout</string>
+    <string name="button_logout">Logout</string>
+    <string name="button_orders">View/Change Orders</string>
+    <string name="button_profile">View Profile</string>
+    <string name="login_test">Login Test</string>
+    <string name="button_points_history">View Points History</string>
+    <string name="button_change_name">Change Display Name</string>
+    <string name="button_change_password">Change Password</string>
+    <string name="button_recover">Recover Account</string>
+    <string name="button_home">Back to Home Page</string>
+    <string name="address_button_string">Change Address</string>
+    <string name="change_account_settings">Change Settings</string>
+</resources>
