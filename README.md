@@ -8,9 +8,9 @@ Steps to opening and running the code using Android Studios is provided below.
 How to run the project:
 1) Download the project source code from the GitHub repo
 2) Open the project files through the Android Studios interface
-  1) Select "Open Project"
-  2) Navigate to the downloaded project source code using the file explorer in Android Studios
-  3) Open the downloaded project
+    1) Select "Open Project"
+    2) Navigate to the downloaded project source code using the file explorer in Android Studios
+    3) Open the downloaded project
 3) Builde the project using the Andriod Studios interface
 4) Start the Android device emulator
 5) Use the Android Studios interface to start the project and install it to the emulator
