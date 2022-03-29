@@ -1,4 +1,4 @@
-# ShipOffClassProject
+# ShipOff
 An Android application created to meet the specifications of the semester project for Seminar in Professional Development II at Clemson University in the Fall semester of 2020.
 There is limited functionality due to the temporary server that was used to demo the project being shut down after the end of the class project.
 All of the project code is available here. To view rendering of all the screens, and to potentially run the app with limited functionality, the use of the Android Studios IDE is recommended.
